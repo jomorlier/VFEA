@@ -1,6 +1,13 @@
 # VFEA
 Materials for my FISA course on Vibration and Finite Element Analysis (VFEA)
 
-You can replay the FEA part using this link 
-https://github.com/jomorlier/feacourse
+The solution to all exercices done in class. 
+
+Please check:
+
+Ex0.mlx
+Ex1.m
+Ex3.m
+Ex4.m
+
 
