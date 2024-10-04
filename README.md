@@ -1,7 +1,7 @@
 # VFEA
 Materials for my FISA course on Vibration and Finite Element Analysis (VFEA)
 
-The solution to all exercices done in class. 
+The solutions to all exercices done in class. 
 
 Please check:
 
