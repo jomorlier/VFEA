@@ -15,4 +15,6 @@ Ex4.m on Lagrange equations for M,K,C system
 
 Some exercices used Laplace Transform (LT) used to solve the ODE describing the System  to give the displacement x(t) of the mass excited by the input signal y(t). (extracted from "doing physics with matlab")
 
+See the correction https://d-arora.github.io/Doing-Physics-With-Matlab/mpDocs/Laplace01.pdf
+
 
